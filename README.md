@@ -1,7 +1,7 @@
 # T4_Asertiva
 Tarea 4 - Comunicación Asertiva
 ---
-Nombre: Hassan López - 202500233 - G5
+Nombre: Hassan López - 202500233 - G5 /
 Nombre: Dayana Estrada - 202507293 - G2
 ---
 # Estrategia de Comunicación Asertiva y Gestión para Equipos de Desarrollo Virtuales
